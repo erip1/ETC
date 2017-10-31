@@ -13,6 +13,6 @@ The following will give info about available ram slots.
 
 Reading unicode 
 
-xed --encoding SHIFT_JIS filename.txt
+xed --encoding SHIFT_JIS filename.txt 
 xed --list-encodings
 
