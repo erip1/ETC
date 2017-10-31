@@ -4,7 +4,9 @@
 
 
 
+##############################
 The following will give info about available ram slots.
+
 ###############################
 
 #!/bin/bash
