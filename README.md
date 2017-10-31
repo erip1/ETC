@@ -35,4 +35,7 @@ The above will display in YYYYMMDD format
 grep check *"pattern"* -LR
 
 
+Use the following link for more detailed info
+
+https://unix.stackexchange.com/questions/65181/list-the-files-containing-a-particular-word-in-their-text
 
