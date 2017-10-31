@@ -10,10 +10,22 @@ The following will give info about available ram slots.
  sudo dmidecode -t memory
 
 ###############################
-
-Reading unicode 
+# Reading unicode 
+#################################
 
 xed --encoding SHIFT_JIS filename.txt 
 
 xed --list-encodings
+
+##########################################
+# Display date in certain format in linux 
+##########################################
+
+date +%Y%m%d
+
+######
+# The above will display in YYYYMMDD format
+#######
+
+
 
