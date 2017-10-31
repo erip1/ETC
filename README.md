@@ -24,8 +24,15 @@ xed --list-encodings
 date +%Y%m%d
 
 ######
-# The above will display in YYYYMMDD format
+
+The above will display in YYYYMMDD format
+
 #######
+
+# Find the files that contains certain word
+###########################################
+
+grep check *"pattern"* -LR
 
 
 
