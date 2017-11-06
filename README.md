@@ -9,6 +9,8 @@ The following will give info about available ram slots.
  #!/bin/bash
  sudo dmidecode -t memory
 
+https://www.linux.com/LEARN/HOW-RUN-YOUR-OWN-GIT-SERVER
+
 ###############################
 # Reading unicode 
 #################################
