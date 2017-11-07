@@ -1,0 +1,14 @@
+
+
+How to make pyc:
+    http://effbot.org/pyfaq/how-do-i-create-a-pyc-file.htm
+
+Python API
+    
+    https://docs.python.org/3/c-api/intro.html
+
+
+https://www.tutorialspoint.com/python/index.htm
+
+
+http://zetcode.com/gui/pyqt4/

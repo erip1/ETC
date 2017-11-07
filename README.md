@@ -28,4 +28,5 @@ date +%Y%m%d
 #######
 
 
+http://effbot.org/pyfaq/how-do-i-create-a-pyc-file.htm
 
